@@ -12,7 +12,7 @@ export default function WorkCards() {
   <ListGroup variant="flush">
   <ListGroup.Item>Community Journalist (2015 - Present)</ListGroup.Item>
     <ListGroup.Item>Basketball Beat Writer, <i>The Loyalist</i> (Oct 2018 - Feb 2020)</ListGroup.Item>
-    <ListGroup.Item>Sports editor, <i>The Loyalist</i> (Aug 2020 - Present)</ListGroup.Item>
+    <ListGroup.Item>Sports editor, <i>The Loyalist</i> (Aug 2020 - Jun 2021)</ListGroup.Item>
     <ListGroup.Item>Writer & Editor, <i>The Voice of Truth (Medium)</i> (Oct 2018 - Present)</ListGroup.Item>
     <ListGroup.Item>Play-by-Play Commentator, Varsity Basketball Broadcasts, <i>John Malloy Broadcast Club</i> (Nov 2018 - Present)</ListGroup.Item>
       <ListGroup.Item>Online Managing Editor, <i>The Loyalist</i> (Jul 2021 - Present)</ListGroup.Item>
