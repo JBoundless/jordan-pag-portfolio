@@ -1,0 +1,13 @@
+.contact {
+  text-align: center;
+  align-content: center;
+}
+
+#phone {
+  border-radius: 100%;
+  border: 3px solid black;
+}
+
+ul {
+  list-style-type: none;
+}
