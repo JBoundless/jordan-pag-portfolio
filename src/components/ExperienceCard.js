@@ -8,7 +8,7 @@ export default function WorkCards() {
   return(
     <div>
     <Card>
-  <Card.Header>Journalism</Card.Header>
+  <Card.Header style={{fontWeight: 700}}>Journalism</Card.Header>
   <ListGroup variant="flush">
   <ListGroup.Item>Community Journalist (2015 - Present)</ListGroup.Item>
     <ListGroup.Item>Basketball Beat Writer, <i>The Loyalist</i> (Oct 2018 - Feb 2020)</ListGroup.Item>
@@ -20,14 +20,14 @@ export default function WorkCards() {
 </Card>
 
 <Card>
-  <Card.Header>Photography/Videography</Card.Header>
+  <Card.Header style={{fontWeight: 700}}>Photography/Videography</Card.Header>
   <ListGroup variant="flush">
   <ListGroup.Item>Camera Operator - Varsity Football Broadcasts, <i>John Malloy Broadcast Club</i> (Sep 2019 - Oct 2019)</ListGroup.Item>
     <ListGroup.Item>Camera Operator - Varsity Volleyball Broadcasts, <i>John Malloy Broadcast Club</i> (Apr 2021)</ListGroup.Item>
   </ListGroup>
 </Card>
 <Card>
-  <Card.Header>Computer Science</Card.Header>
+  <Card.Header style={{fontWeight: 700}}>Computer Science</Card.Header>
   <ListGroup variant="flush">
   <ListGroup.Item>HTML/CSS Tutor, <i>Ignatian Coding</i> (Mar 2021 - Present)</ListGroup.Item>
     <ListGroup.Item>Member, <i>Loyola High School Computer Science Club</i> (Sep 2021 - Present)</ListGroup.Item>
