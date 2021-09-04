@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div className="about">
           <h1>About Me</h1>
-          <img src=".../images/bay area tree pic copy.jpg" />
+          <img src="https://raw.githubusercontent.com/JBoundless/jordan-pag-portfolio/main/images/bay%20area%20tree%20pic%20copy.jpg" />
           <p>
             My name is Jordan Pagkalinawan, a high school student who lives in
             Southern California. Some of my interests include politics,
