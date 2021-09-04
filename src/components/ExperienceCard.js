@@ -30,7 +30,7 @@ export default function WorkCards() {
   <Card.Header style={{fontWeight: 700}}>Computer Science</Card.Header>
   <ListGroup variant="flush">
   <ListGroup.Item>HTML/CSS Tutor, <i>Ignatian Coding</i> (Mar 2021 - Present)</ListGroup.Item>
-    <ListGroup.Item>Member, <i>Loyola High School Computer Science Club</i> (Sep 2021 - Present)</ListGroup.Item>
+    <ListGroup.Item>Member, <i>Loyola High School Computer Science Club</i> (Sep 2020 - Present)</ListGroup.Item>
   </ListGroup>
 </Card>
 </div>
