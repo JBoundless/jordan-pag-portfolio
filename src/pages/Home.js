@@ -10,7 +10,7 @@ function Home() {
     <div className="Home">
       <LazyHero imageSrc="https://www.campusvarta.com/wp-content/uploads/2020/04/vintage-keyboard-typewriter-old.jpg">
         <h1 style={{fontSize: "40px"}}>Jordan Pagkalinawan</h1>
-        <p style={{fontSize: "12px"}}>Student journalist.</p>
+        <p style={{fontSize: "20px"}}>Student journalist.</p>
       </LazyHero>
       <section id="about" style={{paddingBottom: '15px'}}>
         <h1>Hello!</h1>
