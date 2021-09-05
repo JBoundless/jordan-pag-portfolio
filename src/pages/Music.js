@@ -30,7 +30,7 @@ export default function Music() {
         contains playlists of my favorite songs from different genres, from Jazz
         to Musical Theater.
       </p>
-      <img src="https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/WrHBDKHNUmNZz1kvelRt-RINmuk=/1660x934/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/QF5GXYK6QFCKRHBMLYZF6GT6AA.JPG" />
+      <img id="dear-evan-hansen" src="https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/WrHBDKHNUmNZz1kvelRt-RINmuk=/1660x934/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/QF5GXYK6QFCKRHBMLYZF6GT6AA.JPG" />
     </div>
   );
 }
