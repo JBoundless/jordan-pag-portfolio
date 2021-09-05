@@ -28,6 +28,10 @@ function Home() {
         <h2>Experience</h2>
         <ExperienceCard />
       </section>
+      <section>
+        <h2>Computer Science Portfolio</h2>
+        <p>I created a separate site for my Computer Science portfolio, which can be found <a href="https://jpag-cs.vercel.app">here</a>.</p>
+      </section>
     </div>
   );
 }
