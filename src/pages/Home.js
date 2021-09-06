@@ -32,11 +32,6 @@ function Home() {
         <h2>Computer Science Portfolio</h2>
         <p>I created a separate site for my Computer Science portfolio, which can be found <a href="https://jpag-cs.vercel.app">here</a>.</p>
       </section>
-      <section>
-        <h2>Mobile Viewing</h2>
-        <p>To view my site on your mobile device, scan this QR Code:</p>
-        <img style={{height: auto, width: "50%"}} src="https://raw.githubusercontent.com/JBoundless/jordan-pag-portfolio/main/images/jpag-portfolio-mobile.png" />
-      </section>
     </div>
   );
 }
