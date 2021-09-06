@@ -25,6 +25,15 @@ export default function JournalismCards() {
           </Card.Text>
         </Card.Body>
       </Card>
+      <Card style={{ backgroundColor: '#f2eecb' }}>
+        <Card.Body>
+          <Card.Title>Podcast Website</Card.Title>
+          <Card.Text>
+            I have made a website for my show, <i>The Boundless & Ballin Podcast</i>, which can be found {' '}
+            <a href="https://theboundlessballinpodcast.wordpress.com">here</a>.
+          </Card.Text>
+        </Card.Body>
+      </Card>
     </CardGroup>
   );
 }
