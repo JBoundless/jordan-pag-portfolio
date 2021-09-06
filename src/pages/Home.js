@@ -35,7 +35,7 @@ function Home() {
       <section>
         <h2>Mobile Viewing</h2>
         <p>To view my site on your mobile device, scan this QR Code:</p>
-        <img style={{height: auto, width: "75%"}} src="https://raw.githubusercontent.com/JBoundless/jordan-pag-portfolio/main/images/jpag-portfolio-mobile.png" />
+        <img style={{height: auto, width: "50%"}} src="https://raw.githubusercontent.com/JBoundless/jordan-pag-portfolio/main/images/jpag-portfolio-mobile.png" />
       </section>
     </div>
   );
