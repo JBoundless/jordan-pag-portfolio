@@ -16,8 +16,7 @@ function Home() {
         <h1>Hello!</h1>
         <p>
           My name is Jordan Pagkalinawan, an aspiring journalist with experience
-          in both print and digital media. Check out my work and experience
-          below!
+          in both print and digital media. Check out my work below!
         </p>
       </section>
       <section id="work-cards" style={{paddingBottom: '15px'}}>
