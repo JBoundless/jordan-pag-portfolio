@@ -20,10 +20,11 @@ export default function WorkCards() {
 </Card>
 
 <Card>
-  <Card.Header style={{fontWeight: 700}}>Photography/Videography</Card.Header>
+  <Card.Header style={{fontWeight: 700}}>Videography/Broadcast Production</Card.Header>
   <ListGroup variant="flush">
-  <ListGroup.Item>Camera Operator - Varsity Football Broadcasts, <i>John Malloy Broadcast Club</i> (Sep 2019 - Oct 2019)</ListGroup.Item>
+    <ListGroup.Item>Camera Operator - Varsity Football Broadcasts, <i>John Malloy Broadcast Club</i> (Sep 2019 - Present)</ListGroup.Item>
     <ListGroup.Item>Camera Operator - Varsity Volleyball Broadcasts, <i>John Malloy Broadcast Club</i> (Apr 2021)</ListGroup.Item>
+    <ListGroup.Item>Switchboard Operator - Varsity Football Broadcasts, <i>John Malloy Broadcast Club</i> (Sep 2021 - Present)</ListGroup.Item>
   </ListGroup>
 </Card>
 <Card>
