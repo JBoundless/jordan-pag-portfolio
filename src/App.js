@@ -13,7 +13,6 @@ export default function App() {
   return (
     <BrowserRouter>
       <div className="App">
-        <h1>Jordan Pagkalinawan</h1>
         <Header />
       </div>
       <Route path="/" component={Home} exact />
