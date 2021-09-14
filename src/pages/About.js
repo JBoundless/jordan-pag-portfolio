@@ -19,7 +19,6 @@ const About = () => {
             are continuously added to restaurants, sporting arenas, and even
             around neighborhoods.
           </p>
-      <img id="kobe-quote" src="https://www.azquotes.com/vangogh-image-quotes/3/96/Quotation-Kobe-Bryant-Everyting-negative-pressure-challenges-is-all-an-opportunity-for-me-3-96-30.jpg" />
       <h2>Personal Statement</h2>
       <p>
         My role as a student is to constantly learn about new concepts and, when
@@ -41,6 +40,7 @@ const About = () => {
         adult life, I believe it is crucial to prepare for the future so that we
         are not at a crossroads when we face these decisions.
       </p>
+    <img id="kobe-quote" src="https://www.azquotes.com/vangogh-image-quotes/3/96/Quotation-Kobe-Bryant-Everyting-negative-pressure-challenges-is-all-an-opportunity-for-me-3-96-30.jpg" />
     </div>
   );
 };
