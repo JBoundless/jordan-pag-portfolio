@@ -14,6 +14,7 @@ export default function Journalism() {
           workers strike in San Francisco, and a train-versus-pedestrian
           accident. My latest video can be found below.
         </p>
+        <p>I have also included all of my news reports into <a href="https://www.youtube.com/playlist?list=PLYet4GN1cujTTZx7V972d-huyzw-jmnyr">this</a> playlist.</p>
         <iframe
           width="560"
           height="315"
