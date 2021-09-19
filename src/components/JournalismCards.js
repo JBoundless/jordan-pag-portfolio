@@ -30,7 +30,7 @@ export default function JournalismCards() {
           <Card.Title>Podcast Website</Card.Title>
           <Card.Text>
             I have made a website for my show, <i>The Boundless & Ballin Podcast</i>, which can be found {' '}
-            <a href="https://theboundlessballinpodcast.wordpress.com">here</a>.
+            <a href="https://boundlessballin.wordpress.com" target="_blank">here</a>.
           </Card.Text>
         </Card.Body>
       </Card>
