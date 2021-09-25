@@ -24,8 +24,6 @@ export default function ContactCards() {
     <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
     <Card.Body>
       <Card.Title>LinkedIn</Card.Title>
-      <Card.Text>I've been a community journalist since 2015, going out into Southern California to notable stories, interviewing people, and publishing those reports to my YouTube channel, "Jordan...Boundless!".
-      </Card.Text>
       <Button href="https://www.linkedin.com/in/jordan-pagkalinawan/">Check it Out</Button>
     </Card.Body>
   </Card>
