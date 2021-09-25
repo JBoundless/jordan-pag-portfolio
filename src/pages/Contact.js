@@ -1,5 +1,6 @@
 import React from 'react';
 import './PageStyles/Contact.css';
+import ContactCards from '../components/ContactCards';
 
 export default function Contact() {
   return (
@@ -13,17 +14,7 @@ export default function Contact() {
         Here are my social media links. I'm very active on these platforms and
         Direct Messaging is the best way to get in touch.
       </p>
-      <ul>
-        <li>
-          <a href="twitter.com/JPagkalina1">Twitter</a>
-        </li>
-        <li>
-          <a href="instagram.com/jordanboundless">Instagram</a>
-        </li>
-        <li>
-          <a href="linkedin.com/in/jordan-pagkalinawan">LinkedIn</a>
-        </li>
-      </ul>
+      <ContactCards />
     </div>
   );
 }
