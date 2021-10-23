@@ -15,7 +15,9 @@ export default function WorkCards() {
     <ListGroup.Item>Sports Editor, <i>The Loyalist</i> (Aug 2020 - Jun 2021)</ListGroup.Item>
     <ListGroup.Item>Writer & Editor, <i>The Voice of Truth (Medium)</i> (Oct 2018 - Present)</ListGroup.Item>
     <ListGroup.Item>Play-by-Play Commentator, Varsity Basketball Broadcasts, <i>John Malloy Broadcast Club</i> (Nov 2018 - Present)</ListGroup.Item>
-      <ListGroup.Item>Online Managing Editor, <i>The Loyalist</i> (Jul 2021 - Present)</ListGroup.Item>
+    <ListGroup.Item>Online Managing Editor, <i>The Loyalist</i> (Jul 2021 - Present)</ListGroup.Item>
+    <ListGroup.Item>Photographer (as needed), <i>The Loyalist</i> (Sep 2021 - Present)</ListGroup.Item>
+    
   </ListGroup>
 </Card>
 
@@ -34,6 +36,13 @@ export default function WorkCards() {
     <ListGroup.Item>Member, <i>Loyola High School Computer Science Club</i> (Sep 2020 - Present)</ListGroup.Item>
   </ListGroup>
 </Card>
+<Card>
+  <Card.Header style={{fontWeight: 700}}>Miscellaneous</Card.Header>
+  <ListGroup variant="flush">
+    <ListGroup.Item>Attended Cal State Northridge Journalism's 'J-Day' Conference (Oct. 23, 2021)</ListGroup.Item>
+  </ListGroup>
+</Card>
+
 </div>
   )
 }
