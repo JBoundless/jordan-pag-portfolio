@@ -9,7 +9,7 @@ export default function Journalism() {
         <h1>Journalism</h1>
         <h2>YouTube</h2>
         <p>
-          I have covered local events in SoCal since I was seven years old. Some
+          I have covered local events in SoCal since I was eleven years old. Some
           of the stories I've reported on included the 2016 election, a hotel
           workers strike in San Francisco, and a train-versus-pedestrian
           accident. My latest video can be found below.
