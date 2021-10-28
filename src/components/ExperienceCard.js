@@ -4,7 +4,7 @@ import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import ListGroup from 'react-bootstrap/ListGroup';
 
-export default function WorkCards() {
+export default function ExperienceCard() {
   return(
     <div>
     <Card>
