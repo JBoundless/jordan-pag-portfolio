@@ -4,6 +4,7 @@ import CardGroup from 'react-bootstrap/CardGroup';
 import Card from 'react-bootstrap/Card';
 import WorkCards from '../components/WorkCards';
 import ExperienceCard from '../components/ExperienceCard';
+import Awards from '../components/Awards';
 
 function Home() {
   return (
@@ -22,6 +23,10 @@ function Home() {
       <section id="work-cards" style={{paddingBottom: '15px'}}>
         <h2>My Work</h2>
         <WorkCards />
+      </section>
+      <section id="awards" style={{paddingBottom: '15px'}}>
+        <h2>Awards</h2>
+        <Awards />
       </section>
       <section id="experience" style={{paddingBottom: '15px'}}>
         <h2>Experience</h2>
