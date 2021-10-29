@@ -8,6 +8,12 @@ export default function ExperienceCard() {
   return(
     <div>
     <Card>
+  <Card.Header style={{fontWeight: 700}}>Awards</Card.Header>
+  <ListGroup variant="flush">
+  <ListGroup.Item>FIRST PLACE (Sportswriting) - CSUN Journalism Day 2021</ListGroup.Item>
+  </ListGroup>
+</Card>
+    <Card>
   <Card.Header style={{fontWeight: 700}}>Journalism</Card.Header>
   <ListGroup variant="flush">
   <ListGroup.Item>Community Journalist (2015 - Present)</ListGroup.Item>
