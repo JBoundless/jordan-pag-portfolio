@@ -10,3 +10,5 @@ export default function Awards() {
     <Card.Text>FIRST PLACE (Sportswriting) - CSUN Journalism Day 2021</Card.Text>
 </Card>
 </div>
+)
+};
