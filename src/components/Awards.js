@@ -6,8 +6,10 @@ export default function Awards() {
   return(
     <div>
     <Card>
-  <Card.Title style={{fontWeight: 700}}>Awards</Card.Title>
-    <Card.Text>FIRST PLACE (Sportswriting) - CSUN Journalism Day 2021</Card.Text>
+  <Card.Header style={{fontWeight: 700}}>Awards</Card.Header>
+<ListGroup variant="flush">
+  <ListGroup.Item>FIRST PLACE (Sportswriting) - CSUN Journalism Day 2021</ListGroup.Item>
+  </ListGroup>
 </Card>
 </div>
 )
