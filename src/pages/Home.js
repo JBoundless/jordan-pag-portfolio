@@ -40,7 +40,8 @@ function Home() {
           <h2>Please Note</h2>
           <p>I am constantly updating the website, so if any accessibility errors arise, chances are I'm already aware of them and attempting to fix them ASAP. If any problems show up, they should be taken care of in 24-72 hours.</p>
           <p>The website's repo can be found here: <a href="https://github.com/JBoundless/jordan-pag-portfolio">https://github.com/JBoundless/jordan-pag-portfolio</a></p>
-    </div>
+      </section>    
+</div>
   );
 }
 
