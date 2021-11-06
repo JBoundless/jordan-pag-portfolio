@@ -12,7 +12,7 @@ import 'semantic-ui-css/semantic.min.css';
 export default function App() {
   return (
     <BrowserRouter>
-      <div className="App">
+      <div className="App" style={{margin: "auto"}}>
         <Header />
       </div>
       <Route path="/" component={Home} exact />
