@@ -7,7 +7,7 @@ export default function Contact() {
     <div className="contact">
       <img
         id="phone"
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4uPA-ky5AQmTLrR_2C3zR7apVj6CKwqt6zw&usqp=CAU"
+        src="https://clipart.info/images/ccovers/1505918647iphone-x-png.png"
       />
       <h1>Contact Me</h1>
       <p>
