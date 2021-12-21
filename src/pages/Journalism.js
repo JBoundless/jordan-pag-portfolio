@@ -24,7 +24,7 @@ export default function Journalism() {
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
         />
-       <p>I also recently started a Substack with plans for a newsletter in the future. <a href="https://jordanpagkalinawan.substack.com">Check it out here!</a></p>
+       <p>I also recently started a Substack with plans for a newsletter in the future. <a href="https://jordanpagkalinawan.substack.com">Check it out!</a></p>
       </div>
       <JournalismCards />
       <img id="journo-image" src="https://c0.wallpaperflare.com/preview/639/306/330/aerial-background-blog-cafe.jpg" />
