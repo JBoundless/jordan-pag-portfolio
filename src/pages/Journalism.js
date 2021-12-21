@@ -24,6 +24,8 @@ export default function Journalism() {
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
         />
+       <p>I also recently started a Substack with plans for a newsletter in the future. Check it out below:</p>
+       <iframe src="https://jordanpagkalinawan.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
       </div>
       <JournalismCards />
       <img id="journo-image" src="https://c0.wallpaperflare.com/preview/639/306/330/aerial-background-blog-cafe.jpg" />
