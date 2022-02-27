@@ -3,7 +3,7 @@
 I used React, React Bootstrap cards & buttons, and CSS to rebuild my portfolio site.
 
 ## UPDATE
-As of January 2022, this portfolio is no longer active due to deployment issues.
+As of January 2022, this portfolio is no longer active due to deployment issues. NEW WEBSITE: https://jpagka22.wordpress.com
 
 ## Demo Image
 
